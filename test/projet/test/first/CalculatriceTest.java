@@ -18,9 +18,7 @@ import static org.junit.Assert.*;
  */
 public class CalculatriceTest {
     
-    public CalculatriceTest() {
-    }
-    
+
     @BeforeClass
     public static void setUpClass() {
     }
